@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Trainer Basic Coding To young girls.",
+    "organisation": "Sister Of Code Organization",
+    "startDate": "2024",
+    "endDate": "Feb, 2015",
+    "experiences": [
+      "Taught about basic coding and AI.",
+      "And also learn with SOC about basic coding, web development."
+    ],
+    "imageSrc": "history/sisters_of_code_logo.jpg"
+  },
+  {
+    "role": "Teaching Assistant",
+    "organisation": "Ontario International School",
+    "startDate": "2023",
+    "endDate": "2024",
+    "experiences": [
+      "Work assist to English and ICT teacher.",
+      "Managed students, classes. etc,"
+    ],
+    "imageSrc": "history/onta.png"
+  },
+  {
+    "role": "Volunteer: Teaching English and Computer to students grade 6-9.",
+    "organisation": "JGG Organization",
+    "startDate": "2018",
+    "endDate": "2021",
+    "experiences": [
+      "Taught English to middle school students.",
+      "Computer skills teaching: taught Ms. word , Ms. Excel, Email, etc."
+    ],
+    "imageSrc": "history/jgg.png"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Project 1",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to manage a website that connect to database.",
+    "skills": ["PHP", "HTML,CSS", "JavaScript","MySql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/phatsa24/backend_project"
+  },
+  {
+    "title": "Project 2",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for shoe shop website.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "hhttps://github.com/phatsa24/Project-Shoe-Shop/tree/main/shoe-shop-homepage"
+  },
+  {
+    "title": "Project 3",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to manage staff in a small company. It's just a simple form.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/phatsa24/form_staff_management/tree/main/Staff%20Management"
+  },
+  {
+    "title": "Project 4",
+    "imageSrc": "projects/project.png",
+    "description": "This is the Java project that is the team project. ",
+    "skills": ["Java", "MySql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/phatsa24/java_year2/tree/main/Java_Year2"
+  }
+]
